@@ -59,7 +59,9 @@
     right: 30px;
     margin: 0 auto; }
   .walkthrough-element.walkthrough-icon {
-    height: 200px; }
+    height: 200px;
+      width: auto;
+  }
   .walkthrough-element.walkthrough-arrow {
     color: #FFF;
     position: absolute;
