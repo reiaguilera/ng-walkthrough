@@ -1,6 +1,6 @@
 [![Build Status](https://travis-ci.org/souly1/ng-walkthrough.svg?branch=master)](https://travis-ci.org/souly1/ng-walkthrough)
 
-# ng-walkthrough
+# ng-walkthrough-millennials from souly1/ng-walkthrough 
 
 After not finding an Angular walkthrough/on-boarding/tour guide/learning page directive which was responsive, dynamic, easy to use and thus good for our [Fitness Meal Planner](http://www.fitnessmealplanner.com) mobile web App I decided to create one.
 
@@ -30,7 +30,7 @@ Tip walkthrough mode:
 # Demo
 
 A demo was created to show:
- * The 2 basic transparency overlay types in 3 demoes fitting the screenshot examples -  one basic template, one with arrows, and the last freestyle one using transclude.
+ * The 2 basic transparency overlay types in 3 demos fitting the screenshot examples -  one basic template, one with arrows, and the last freestyle one using transclude.
  * The tip mode walkthrough
 [Demo can be found here](http://plnkr.co/edit/kHM9zHCxAA3gPYvedmdw?p=preview)
 
@@ -45,7 +45,7 @@ This directive has been originally developed for the [Ionic Framework](http://io
 
 ## Installation
 
-* **Bower**: `bower install ng-walkthrough`
+* **Bower**:  `bower install  ng-walkthrough-millennials`
 
 ## Usage
 
