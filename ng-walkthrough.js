@@ -38,7 +38,8 @@ angular.module('ng-walkthrough', [])
                 tipColor: '@',
                 isBindClickEventToBody: '=',
                 onWalkthroughShow: '&',
-                onWalkthroughHide: '&'
+                onWalkthroughHide: '&',
+                hideArrow: '='
             },
             link: function (scope, element, attrs, ctrl, $transclude) {
                 var getIcon = function(icon){

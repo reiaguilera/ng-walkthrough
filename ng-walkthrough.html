@@ -5,7 +5,7 @@
             <pre class="walkthrough-element walkthrough-text" ng-bind="mainCaption">
             </pre>
             <img class="walkthrough-element walkthrough-icon" ng-show="icon!='arrow'" ng-src="{{walkthroughIcon}}" alt="icon">
-            <div class="walkthrough-element walkthrough-arrow" ng-show="icon=='arrow'"></div>
+            <div class="walkthrough-element walkthrough-arrow" ng-show="icon=='arrow' && !hideArrow"></div>
             <button class="walkthrough-element walkthrough-button-positive walkthrough-done-button" type="button" ng-if="useButton" ng-click="onCloseClicked($event)" on-touch="onCloseTouched($event)">
                 {{buttonCaption}}
             </button>
